@@ -1,2 +1,0 @@
-20221025	15:36:07	74c340e9-bd4f-4eec-8505-98fd14e2e91c	Log event emitted!
-20221025	15:36:21	98212cff-ccd7-4475-b61b-6911b36dee3a	Log event emitted!
