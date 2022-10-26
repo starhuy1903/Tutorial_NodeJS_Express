@@ -1,4 +1,18 @@
-20221025	20:18:46	ec0e9279-f0f4-487e-8cbe-964af20d8519	/new-page	GET
-20221025	20:18:46	16a3776d-6b76-4e49-8bab-e5a5699ba643	/css/style.css	GET
-20221025	20:18:46	022e46b1-eb7f-4663-97ca-a715127f1a34	/img/img1.jpg	GET
-20221025	20:18:49	6def6b65-2556-432a-80e8-692d3336c735	/favicon.ico	GET
+20221025	23:26:29	1965e52c-37be-4984-9824-0a88614a4018	GET	undefined	/
+20221025	23:26:29	c9723cba-a92c-4fca-b073-c80f94a82a81	GET	undefined	/css/style.css
+20221025	23:29:51	4df9899a-614e-4443-be61-fd611d75901c	OPTIONS	https://www.google.com	/
+20221025	23:29:51	133f83fa-690b-435f-8c64-b9ee8d149094	GET	https://www.google.com	/
+20221025	23:32:25	538aa16c-03ee-4b77-be46-00d13416a25b	OPTIONS	https://www.google.com	/
+20221025	23:32:25	6051abeb-229d-482a-9e54-d88d6c2ebc67	GET	https://www.google.com	/
+20221025	23:38:03	5e93267f-94a1-4565-b1af-4752f4748c48	OPTIONS	https://www.google.com	/
+20221025	23:38:03	43516569-1c4f-40d1-bc8f-48443cf0f9d0	GET	https://www.google.com	/
+20221025	23:38:36	b3f39fe5-adbc-4886-bd4e-a99627d673fb	OPTIONS	https://www.google.com	/
+20221025	23:38:36	a5d8b311-d8b9-4e24-a349-0d35dce01cbb	GET	https://www.google.com	/
+20221025	23:39:43	451ac567-290c-4d81-aac9-99e1731305ae	OPTIONS	https://www.google.com	/
+20221025	23:39:43	3b26293f-9d2a-42da-9198-a077b7497f41	GET	https://www.google.com	/
+20221025	23:46:58	14ba27e9-9837-42c8-bd5d-97a1d3065066	GET	undefined	/
+20221025	23:46:58	1b6e7a02-9431-480a-b8c9-3f422acf0aef	GET	undefined	/css/style.css
+20221025	23:48:30	c156a7dd-e2f5-4ed5-a5e5-486578a2f7d5	GET	undefined	/abd
+20221025	23:48:30	3906766b-bf06-440a-bdf3-c7caaffd4804	GET	undefined	/css/style.css
+20221025	23:50:57	5673fcd6-a7d9-47e2-a972-8af772ef8199	GET	undefined	/abd
+20221025	23:50:57	19284893-9677-4104-a85d-019894dba175	GET	undefined	/css/style.css
