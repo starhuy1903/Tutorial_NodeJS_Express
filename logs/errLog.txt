@@ -1,3 +1,5 @@
 20221026	15:03:29	c1e6a637-b98c-4f54-be00-da0c50c4cf70	ReferenceError: accessToken is not defined
 20221026	15:05:08	84255da2-e0d0-428a-ad48-170b08f5b007	ReferenceError: accessToken is not defined
 20221026	15:05:20	1ff827e9-24d4-4dd3-a435-c8743634fb2f	ReferenceError: accessToken is not defined
+20221026	18:12:32	4f97265f-a1f3-498e-8a75-0cbbd1d818e5	TypeError: allowedOrigins.has is not a function
+20221026	18:13:56	97a0f60c-dfcf-4996-9089-22018c06acf7	TypeError: allowedOrigins.has is not a function

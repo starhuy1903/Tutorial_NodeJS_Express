@@ -12,6 +12,7 @@ const PORT = process.env.PORT || 3500;
 
 // custom middleware logger
 app.use(logger);
+
 // handle options credentials check - before CORS!
 // and fetch cookies credentials requirement
 app.use(credentials);
