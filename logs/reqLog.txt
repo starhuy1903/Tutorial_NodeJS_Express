@@ -100,3 +100,5 @@
 20221027	14:53:35	5cad18a7-1544-4bff-8f0f-33a62da95074	GET	undefined	/employees
 20221027	14:53:40	472bf2d8-ff39-400b-92da-8e5d3a706f36	POST	undefined	/auth
 20221027	14:53:49	2641f167-592e-4afc-b063-06c93e6946e8	GET	undefined	/employees
+20221027	15:51:05	64589303-8faf-49fd-bc2d-06f2110db507	POST	undefined	/register
+20221027	15:52:48	3fb15f8b-dc6a-4632-b5fb-1d60aadfd353	POST	undefined	/register

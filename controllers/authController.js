@@ -9,7 +9,6 @@ const bcrypt = require("bcrypt");
 const path = require("path");
 
 const jwt = require("jsonwebtoken");
-require("dotenv").config();
 const fsPromises = require("fs").promises;
 
 const handleLogin = async (req, res) => {
